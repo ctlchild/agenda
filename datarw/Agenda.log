@@ -1,0 +1,400 @@
+[Info]2019/10/23 12:15:46 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 12:15:46 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 12:15:46 deleteuser.go:66: flag -n ,name is invaild
+[Warning]2019/10/23 12:15:46 deleteuser.go:66: Register fail
+[Info]2019/10/23 12:16:07 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 12:16:07 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 12:16:07 deleteuser.go:66: flag -p ,password is invaild
+[Warning]2019/10/23 12:16:07 deleteuser.go:66: Register fail
+[Info]2019/10/23 12:16:25 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 12:16:25 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 12:16:48 deleteuser.go:66: phone is invaild
+[Info]2019/10/23 12:17:02 deleteuser.go:66: Registration complete
+[Info]2019/10/23 13:39:21 logout.go:42: Cmd logout called
+[Error]2019/10/23 13:39:21 logout.go:48: User is not logged in
+[Info]2019/10/23 13:39:30 login.go:43: Cmd login called
+[Error]2019/10/23 13:39:30 login.go:76: Log in failed, username don't exist 
+[Info]2019/10/23 13:41:05 login.go:43: Cmd login called
+[Error]2019/10/23 13:41:05 login.go:76: Log in failed, username don't exist 
+[Info]2019/10/23 13:42:55 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 13:42:55 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 13:42:55 deleteuser.go:66: flag -n ,name is invaild
+[Warning]2019/10/23 13:42:55 deleteuser.go:66: Register fail
+[Info]2019/10/23 13:45:39 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 13:45:39 deleteuser.go:66: cmd: register called
+[Info]2019/10/23 13:45:59 deleteuser.go:66: Registration complete
+[Info]2019/10/23 13:50:57 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 13:50:57 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 13:50:57 deleteuser.go:66: The username has been registered
+[Warning]2019/10/23 13:50:57 deleteuser.go:66: Register fail
+[Info]2019/10/23 14:36:26 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 14:36:26 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 14:36:26 deleteuser.go:66: email is invaild
+[Warning]2019/10/23 14:36:26 deleteuser.go:66: Register fail
+[Info]2019/10/23 14:36:36 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 14:36:36 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 14:36:36 deleteuser.go:66: The username has been registered
+[Warning]2019/10/23 14:36:36 deleteuser.go:66: Register fail
+[Info]2019/10/23 14:36:49 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 14:36:49 deleteuser.go:66: cmd: register called
+[Info]2019/10/23 14:36:49 deleteuser.go:66: Registration complete
+[Info]2019/10/23 14:37:23 deleteuser.go:58: Cmd deleteuser called
+[Error]2019/10/23 14:37:23 deleteuser.go:66: isn't login,please use command login
+[Info]2019/10/23 14:37:40 login.go:28: Cmd login called
+[Info]2019/10/23 14:37:40 login.go:50: aa log in success
+[Info]2019/10/23 14:37:43 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 14:37:43 deleteuser.go:64: curUser: aa  cmd: queryuser called
+[Info]2019/10/23 14:37:43 deleteuser.go:64: curUser: aa  cmd: queryuser success
+[Info]2019/10/23 15:10:57 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 15:10:57 deleteuser.go:64: curUser: aa  cmd: queryuser called
+[Info]2019/10/23 15:17:23 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 15:17:23 deleteuser.go:64: curUser: aa  cmd: listuser called
+[Info]2019/10/23 15:17:23 deleteuser.go:64: curUser: aa  cmd: listuser success
+[Info]2019/10/23 17:17:09 login.go:42: Cmd login called
+[Error]2019/10/23 17:17:09 login.go:49:  log in failed, already other user logged in
+[Info]2019/10/23 17:17:15 logout.go:42: Cmd logout called
+[Error]2019/10/23 17:17:15 logout.go:56: aa logout success
+[Info]2019/10/23 17:17:29 login.go:42: Cmd login called
+[Error]2019/10/23 17:17:29 login.go:66: a log in failed, password erorr 
+[Info]2019/10/23 17:17:48 login.go:42: Cmd login called
+[Info]2019/10/23 17:17:48 login.go:62: a log in success
+[Info]2019/10/23 17:18:01 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 17:18:01 deleteuser.go:64: curUser: a  cmd: listuser called
+[Info]2019/10/23 17:18:01 deleteuser.go:64: curUser: a  cmd: listuser success
+[Info]2019/10/23 17:21:11 login.go:42: Cmd login called
+[Error]2019/10/23 17:21:12 login.go:49: a log in failed, already other user logged in
+[Info]2019/10/23 17:21:16 login.go:42: Cmd login called
+[Error]2019/10/23 17:21:16 login.go:49: aa log in failed, already other user logged in
+[Info]2019/10/23 17:29:59 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 17:29:59 deleteuser.go:66: cmd: register called
+[Warning]2019/10/23 17:29:59 deleteuser.go:66: phone is invaild
+[Warning]2019/10/23 17:29:59 deleteuser.go:66: Register fail
+[Info]2019/10/23 17:30:20 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 17:30:20 deleteuser.go:66: cmd: register called
+[Info]2019/10/23 17:30:20 deleteuser.go:66: Registration complete
+[Info]2019/10/23 17:37:17 logout.go:42: Cmd logout called
+[Error]2019/10/23 17:37:17 logout.go:56: a logout success
+[Info]2019/10/23 17:37:27 deleteuser.go:58: Cmd deleteuser called
+[info]2019/10/23 17:37:27 deleteuser.go:66: Cmd login called
+[Info]2019/10/23 17:37:27 deleteuser.go:66: a log in success
+[Info]2019/10/23 17:38:07 deleteuser.go:58: Cmd deleteuser called
+[info]2019/10/23 17:38:07 deleteuser.go:66: Cmd login called
+[Error]2019/10/23 17:38:07 deleteuser.go:66: a log in failed,a is already logged in
+[Info]2019/10/23 17:43:37 deleteuser.go:58: Cmd deleteuser called
+[Info]2019/10/23 17:43:37 deleteuser.go:66: Cmd logout called
+[Info]2019/10/23 17:43:37 deleteuser.go:66: a logout success
+[Info]2019/10/23 18:01:07 deleteuser.go:43: Cmd deleteuser called
+[info]2019/10/23 18:01:07 deleteuser.go:50: Cmd login called
+[Error]2019/10/23 18:01:07 deleteuser.go:50: Log in failed,  don't exist 
+[Info]2019/10/23 18:01:24 deleteuser.go:43: Cmd deleteuser called
+[info]2019/10/23 18:01:24 deleteuser.go:50: Cmd login called
+[Error]2019/10/23 18:01:24 deleteuser.go:50: a log in failed, password error 
+[Info]2019/10/23 18:01:26 deleteuser.go:43: Cmd deleteuser called
+[info]2019/10/23 18:01:26 deleteuser.go:50: Cmd login called
+[Info]2019/10/23 18:01:26 deleteuser.go:50: a log in success
+[Info]2019/10/23 18:01:44 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 18:01:44 deleteuser.go:50: Cmd logout called
+[Info]2019/10/23 18:01:44 deleteuser.go:50: a logout success
+[Info]2019/10/23 19:15:33 deleteuser.go:43: Cmd deleteuser called
+[info]2019/10/23 19:15:33 deleteuser.go:50: Cmd login called
+[Error]2019/10/23 19:15:33 deleteuser.go:50: Log in failed,  don't exist 
+[Info]2019/10/23 19:15:38 deleteuser.go:43: Cmd deleteuser called
+[info]2019/10/23 19:15:38 deleteuser.go:50: Cmd login called
+[Error]2019/10/23 19:15:38 deleteuser.go:50: a log in failed, password error 
+[Info]2019/10/23 19:15:43 deleteuser.go:43: Cmd deleteuser called
+[info]2019/10/23 19:15:43 deleteuser.go:50: Cmd login called
+[Info]2019/10/23 19:15:43 deleteuser.go:50: a log in success
+[Info]2019/10/23 19:15:53 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 19:15:53 deleteuser.go:50: Current User: a, Cmd createmeeting called
+[Error]2019/10/23 19:15:53 deleteuser.go:50: Wrong date format
+[Info]2019/10/23 19:15:53 deleteuser.go:50: Current User: a, Cmd createmeeting failed
+[Info]2019/10/23 19:16:46 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 19:16:46 deleteuser.go:50: Current User: a, Cmd createmeeting called
+[Error]2019/10/23 19:16:46 deleteuser.go:50: No valid participators
+[Error]2019/10/23 19:16:46 deleteuser.go:50: Current User: a, Cmd createmeeting failed
+[Info]2019/10/23 19:16:53 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 19:16:53 deleteuser.go:50: Current User: a, Cmd createmeeting called
+[Error]2019/10/23 19:16:53 deleteuser.go:50: No valid participators
+[Error]2019/10/23 19:16:53 deleteuser.go:50: Current User: a, Cmd createmeeting failed
+[Info]2019/10/23 19:16:59 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 19:16:59 deleteuser.go:50: Current User: a, Cmd createmeeting called
+[Error]2019/10/23 19:16:59 deleteuser.go:50: No valid participators
+[Error]2019/10/23 19:16:59 deleteuser.go:50: Current User: a, Cmd createmeeting failed
+[Info]2019/10/23 19:17:02 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 19:17:02 deleteuser.go:50: Current User: a, Cmd createmeeting called
+[Info]2019/10/23 19:17:02 deleteuser.go:50: Current User: a, Cmd createmeeting success
+[Info]2019/10/23 19:19:02 querymeeting.go:77: querymeeting called
+[Info]2019/10/23 19:30:44 clearmeeting.go:59: Current User: a, Cmd clearmeeting called
+[Info]2019/10/23 19:30:44 clearmeeting.go:78: Current User: a, Cmd clearmeeting finished
+[Info]2019/10/23 19:31:26 deleteuser.go:43: Cmd deleteuser called
+[Info]2019/10/23 19:31:26 deleteuser.go:50: Current User: a, Cmd createmeeting called
+[Info]2019/10/23 19:31:26 deleteuser.go:50: Current User: a, Cmd createmeeting success
+[Info]2019/10/23 19:31:30 clearmeeting.go:59: Current User: a, Cmd clearmeeting called
+[Info]2019/10/23 19:31:30 clearmeeting.go:78: Current User: a, Cmd clearmeeting finished
+[Info]2019/10/23 22:47:17 log.go:19: Cmd deleteuser called
+[info]2019/10/23 22:47:17 log.go:27: Cmd login called
+[Error]2019/10/23 22:47:17 log.go:27:  log in failed,a is already logged in
+[Info]2019/10/23 22:47:50 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:47:50 log.go:27: Current User: a, Cmd createmeeting called
+[Error]2019/10/23 22:47:50 log.go:27: Wrong date format
+[Info]2019/10/23 22:47:50 log.go:27: Current User: a, Cmd createmeeting failed
+[Info]2019/10/23 22:48:19 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:48:19 log.go:27: Current User: a, Cmd createmeeting called
+[Info]2019/10/23 22:48:19 log.go:27: Current User: a, Cmd createmeeting success
+[Info]2019/10/23 22:48:27 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:48:27 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/23 22:48:27 log.go:27: Wrong date format
+[Info]2019/10/23 22:49:47 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:49:47 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/23 22:49:47 log.go:27: Wrong date format
+[Info]2019/10/23 22:51:18 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:51:18 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/23 22:51:18 log.go:27: Wrong date format
+[Info]2019/10/23 22:53:08 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:53:08 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/23 22:53:08 log.go:27: Wrong date format
+[Info]2019/10/23 22:53:08 log.go:27: Current User: a, Cmd listmeeting failed
+[Info]2019/10/23 22:53:24 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:53:24 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/23 22:53:24 log.go:27: Wrong date format
+[Info]2019/10/23 22:53:24 log.go:27: Current User: a, Cmd listmeeting failed
+[Info]2019/10/23 22:54:32 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:54:32 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/23 22:54:32 log.go:27: Meetings are not found
+[Info]2019/10/23 22:54:32 log.go:27: Current User: a, Cmd listmeeting failed
+[Info]2019/10/23 22:57:48 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 22:57:48 log.go:27: Current User: a, Cmd createmeeting called
+[Error]2019/10/23 22:57:48 log.go:27: Sponsor is not free
+[Error]2019/10/23 22:57:48 log.go:27: Current User: a, Cmd createmeeting failed
+[Info]2019/10/23 23:00:10 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 23:00:10 log.go:27: Current User: a, Cmd clearmeeting called
+[Info]2019/10/23 23:00:10 log.go:27: Current User: a, Cmd clearmeeting success
+[Info]2019/10/23 23:00:39 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 23:00:39 log.go:27: Current User: a, Cmd createmeeting called
+[Info]2019/10/23 23:00:39 log.go:27: Current User: a, Cmd createmeeting success
+[Info]2019/10/23 23:00:44 log.go:19: Cmd deleteuser called
+[Info]2019/10/23 23:00:44 log.go:27: Current User: a, Cmd listmeeting called
+[Info]2019/10/23 23:00:44 log.go:27: cmd: listuser success
+[Info]2019/10/24 08:40:59 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:40:59 log.go:27: cmd: register called
+[Info]2019/10/24 08:40:59 log.go:27: Registration success
+[Info]2019/10/24 08:41:40 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:41:40 log.go:27: Cmd login called
+[Error]2019/10/24 08:41:40 log.go:27: Log in failed, a-p123456789 don't exist 
+[Info]2019/10/24 08:41:48 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:41:48 log.go:27: Cmd login called
+[Info]2019/10/24 08:41:48 log.go:27: a log in success
+[Info]2019/10/24 08:41:54 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:41:54 log.go:25: curUser: a  cmd: listuser called
+[Info]2019/10/24 08:41:55 log.go:25: curUser: a  cmd: listuser success
+[Info]2019/10/24 08:42:27 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:42:27 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 08:42:27 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 08:43:04 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:43:04 log.go:27: cmd: register called
+[Info]2019/10/24 08:43:04 log.go:27: Registration success
+[Info]2019/10/24 08:43:19 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:43:19 log.go:27: cmd: register called
+[Warning]2019/10/24 08:43:19 log.go:27: email is invaild
+[Warning]2019/10/24 08:43:19 log.go:27: Register fail
+[Info]2019/10/24 08:45:52 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:45:52 log.go:27: cmd: register called
+[Warning]2019/10/24 08:45:52 log.go:27: email is invaild
+[Warning]2019/10/24 08:45:52 log.go:27: Register fail
+[Info]2019/10/24 08:46:24 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:46:24 log.go:27: Cmd login called
+[Error]2019/10/24 08:46:24 log.go:27: Log in failed,  don't exist 
+[Info]2019/10/24 08:46:39 log.go:19: Cmd deleteuser called
+[Error]2019/10/24 08:46:39 log.go:27: isn't login,please use command login
+[Info]2019/10/24 08:46:50 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:46:50 log.go:27: Cmd login called
+[Info]2019/10/24 08:46:50 log.go:27: a log in success
+[Info]2019/10/24 08:46:57 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:46:57 log.go:25: curUser: a  cmd: listuser called
+[Info]2019/10/24 08:46:57 log.go:25: curUser: a  cmd: listuser success
+[Info]2019/10/24 08:47:06 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:47:06 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 08:47:06 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 08:47:19 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:47:19 log.go:27: cmd: register called
+[Warning]2019/10/24 08:47:19 log.go:27: email is invaild
+[Warning]2019/10/24 08:47:19 log.go:27: Register fail
+[Info]2019/10/24 08:47:24 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:47:24 log.go:27: cmd: register called
+[Info]2019/10/24 08:47:24 log.go:27: Registration success
+[Info]2019/10/24 08:47:37 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:47:37 log.go:27: cmd: register called
+[Info]2019/10/24 08:47:37 log.go:27: Registration success
+[Info]2019/10/24 08:47:56 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:47:56 log.go:27: cmd: register called
+[Warning]2019/10/24 08:47:56 log.go:27: The username has been registered
+[Warning]2019/10/24 08:47:56 log.go:27: Register fail
+[Info]2019/10/24 08:49:25 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:49:25 log.go:27: Cmd login called
+[Info]2019/10/24 08:49:25 log.go:27: a log in success
+[Info]2019/10/24 08:49:33 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:49:33 log.go:27: Cmd login called
+[Error]2019/10/24 08:49:33 log.go:27: a log in failed,a is already logged in
+[Info]2019/10/24 08:49:41 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:49:41 log.go:27: Cmd login called
+[Error]2019/10/24 08:49:41 log.go:27:  log in failed,a is already logged in
+[Info]2019/10/24 08:51:16 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:51:16 log.go:27: Cmd logout called
+[Info]2019/10/24 08:51:16 log.go:27: a logout success
+[Info]2019/10/24 08:51:20 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:51:20 log.go:27: Cmd login called
+[Error]2019/10/24 08:51:20 log.go:27: a log in failed, password error 
+[Info]2019/10/24 08:51:33 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:51:33 log.go:27: Cmd login called
+[Info]2019/10/24 08:51:33 log.go:27: a log in success
+[Info]2019/10/24 08:51:36 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:51:36 log.go:27: Cmd login called
+[Error]2019/10/24 08:51:36 log.go:27: a log in failed,a is already logged in
+[Info]2019/10/24 08:52:07 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:52:07 log.go:27: Cmd logout called
+[Info]2019/10/24 08:52:07 log.go:27: a logout success
+[Info]2019/10/24 08:53:08 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:53:08 log.go:27: Cmd login called
+[Info]2019/10/24 08:53:08 log.go:27: a log in success
+[Info]2019/10/24 08:53:46 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:53:46 log.go:25: curUser: a  cmd: listuser called
+[Info]2019/10/24 08:53:46 log.go:25: curUser: a  cmd: listuser success
+[Info]2019/10/24 08:55:54 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:55:54 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 08:55:54 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 08:57:32 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:57:32 log.go:27: cmd: register called
+[Info]2019/10/24 08:57:32 log.go:27: Registration success
+[Info]2019/10/24 08:57:40 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:57:40 log.go:27: Cmd login called
+[Info]2019/10/24 08:57:40 log.go:27: a log in success
+[Info]2019/10/24 08:57:45 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:57:45 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 08:57:45 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 08:57:56 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:57:56 log.go:27: cmd: register called
+[Info]2019/10/24 08:57:56 log.go:27: Registration success
+[Info]2019/10/24 08:58:00 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:58:00 log.go:27: Cmd login called
+[Info]2019/10/24 08:58:00 log.go:27: a log in success
+[Info]2019/10/24 08:58:03 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 08:58:03 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 08:58:03 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 08:59:33 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:59:34 log.go:27: Cmd login called
+[Error]2019/10/24 08:59:34 log.go:27: Log in failed, a don't exist 
+[Info]2019/10/24 08:59:56 log.go:19: Cmd deleteuser called
+[info]2019/10/24 08:59:56 log.go:27: Cmd login called
+[Info]2019/10/24 08:59:56 log.go:27: b log in success
+[Info]2019/10/24 09:00:02 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:00:02 log.go:25: curUser: b  cmd: listuser called
+[Info]2019/10/24 09:00:02 log.go:25: curUser: b  cmd: listuser success
+[Info]2019/10/24 09:00:12 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:00:12 log.go:27: cmd: register called
+[Info]2019/10/24 09:00:12 log.go:27: Registration success
+[Info]2019/10/24 09:00:35 log.go:19: Cmd deleteuser called
+[info]2019/10/24 09:00:35 log.go:27: Cmd login called
+[Error]2019/10/24 09:00:35 log.go:27: a log in failed,b is already logged in
+[Info]2019/10/24 09:00:39 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:00:39 log.go:27: Cmd logout called
+[Info]2019/10/24 09:00:39 log.go:27: b logout success
+[Info]2019/10/24 09:00:52 log.go:19: Cmd deleteuser called
+[info]2019/10/24 09:00:52 log.go:27: Cmd login called
+[Error]2019/10/24 09:00:52 log.go:27: a log in failed, password error 
+[Info]2019/10/24 09:00:55 log.go:19: Cmd deleteuser called
+[info]2019/10/24 09:00:55 log.go:27: Cmd login called
+[Info]2019/10/24 09:00:55 log.go:27: a log in success
+[Info]2019/10/24 09:01:08 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:01:08 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 09:01:08 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 09:01:13 log.go:19: Cmd deleteuser called
+[info]2019/10/24 09:01:13 log.go:27: Cmd login called
+[Info]2019/10/24 09:01:13 log.go:27: b log in success
+[Info]2019/10/24 09:01:21 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:01:21 log.go:25: curUser: b  cmd: listuser called
+[Info]2019/10/24 09:01:21 log.go:25: curUser: b  cmd: listuser success
+[Info]2019/10/24 09:02:02 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:02:02 log.go:27: cmd: register called
+[Info]2019/10/24 09:02:02 log.go:27: Registration success
+[Info]2019/10/24 09:02:09 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:02:09 log.go:27: Cmd logout called
+[Info]2019/10/24 09:02:09 log.go:27: b logout success
+[Info]2019/10/24 09:02:25 log.go:19: Cmd deleteuser called
+[info]2019/10/24 09:02:25 log.go:27: Cmd login called
+[Info]2019/10/24 09:02:25 log.go:27: a log in success
+[Info]2019/10/24 09:04:50 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:04:50 log.go:27: Current User: a, Cmd createmeeting called
+[Info]2019/10/24 09:04:50 log.go:27: Current User: a, Cmd createmeeting success
+[Info]2019/10/24 09:05:09 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:05:09 log.go:27: Current User: a, Cmd listmeeting called
+[Info]2019/10/24 09:05:09 log.go:27: cmd: listuser success
+[Info]2019/10/24 09:05:58 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:05:58 log.go:27: Current User: a, Cmd createmeeting called
+[Error]2019/10/24 09:05:58 log.go:27: Wrong date format
+[Info]2019/10/24 09:05:58 log.go:27: Current User: a, Cmd createmeeting failed
+[Info]2019/10/24 09:07:26 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:07:26 log.go:27: Current User: a, Cmd changeparticipator called
+[Info]2019/10/24 09:07:26 log.go:27: Current User: a, Cmd changeparticipator success
+[Info]2019/10/24 09:07:39 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:07:39 log.go:27: Current User: a, Cmd listmeeting called
+[Info]2019/10/24 09:07:39 log.go:27: cmd: listuser success
+[Info]2019/10/24 09:11:45 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:11:45 log.go:27: Current User: a, Cmd changeparticipator called
+[Info]2019/10/24 09:11:45 log.go:27: Current User: a, Cmd changeparticipator success
+[Info]2019/10/24 09:11:54 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:11:54 log.go:27: Current User: a, Cmd listmeeting called
+[Info]2019/10/24 09:11:54 log.go:27: cmd: listuser success
+[Info]2019/10/24 09:12:05 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:12:05 log.go:27: Current User: a, Cmd changeparticipator called
+[Info]2019/10/24 09:12:05 log.go:27: Current User: a, Cmd changeparticipator success
+[Info]2019/10/24 09:12:09 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:12:09 log.go:27: Current User: a, Cmd listmeeting called
+[Info]2019/10/24 09:12:09 log.go:27: cmd: listuser success
+[Info]2019/10/24 09:16:46 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:16:46 log.go:27: Current User: a, Cmd cancelmeeting called
+[Info]2019/10/24 09:16:46 log.go:27: Current User: a, Cmd cancelmeeting success
+[Info]2019/10/24 09:18:20 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:18:20 log.go:27: Current User: a, Cmd createmeeting called
+[Error]2019/10/24 09:18:20 log.go:27: Wrong date format
+[Info]2019/10/24 09:18:20 log.go:27: Current User: a, Cmd createmeeting failed
+[Info]2019/10/24 09:18:26 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:18:26 log.go:27: Current User: a, Cmd createmeeting called
+[Info]2019/10/24 09:18:26 log.go:27: Current User: a, Cmd createmeeting success
+[Info]2019/10/24 09:18:32 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:18:32 log.go:27: Current User: a, Cmd cancelmeeting called
+[Info]2019/10/24 09:18:32 log.go:27: Current User: a, Cmd cancelmeeting success
+[Info]2019/10/24 09:19:04 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:19:04 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/24 09:19:04 log.go:27: Meetings are not found
+[Info]2019/10/24 09:19:04 log.go:27: Current User: a, Cmd listmeeting failed
+[Info]2019/10/24 09:20:34 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:20:34 log.go:27: Current User: a, Cmd createmeeting called
+[Info]2019/10/24 09:20:34 log.go:27: Current User: a, Cmd createmeeting success
+[Info]2019/10/24 09:20:41 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:20:41 log.go:27: Current User: a, Cmd listmeeting called
+[Info]2019/10/24 09:20:41 log.go:27: cmd: listuser success
+[Info]2019/10/24 09:21:01 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:21:01 log.go:27: Current User: a, Cmd exitmeeting called
+[Info]2019/10/24 09:21:01 log.go:27: Current User: a, Cmd exitmeeting success
+[Info]2019/10/24 09:21:04 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:21:04 log.go:27: Current User: a, Cmd listmeeting called
+[Error]2019/10/24 09:21:04 log.go:27: Meetings are not found
+[Info]2019/10/24 09:21:04 log.go:27: Current User: a, Cmd listmeeting failed
+[Info]2019/10/24 09:23:09 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:23:09 log.go:27: Current User: a, Cmd clearmeeting called
+[Info]2019/10/24 09:23:09 log.go:27: Current User: a, Cmd clearmeeting success
+[Info]2019/10/24 09:23:24 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:23:24 log.go:27: Current User: a, Cmd createmeeting called
+[Info]2019/10/24 09:23:24 log.go:27: Current User: a, Cmd createmeeting success
+[Info]2019/10/24 09:23:26 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:23:26 log.go:27: Current User: a, Cmd clearmeeting called
+[Info]2019/10/24 09:23:26 log.go:27: Current User: a, Cmd clearmeeting success
+[Info]2019/10/24 09:25:50 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:25:50 log.go:25: curUser: a  cmd: deleteuser called
+[Info]2019/10/24 09:25:50 log.go:25: curUser: a  cmd: deleteuser success
+[Info]2019/10/24 09:26:03 log.go:19: Cmd deleteuser called
+[info]2019/10/24 09:26:03 log.go:27: Cmd login called
+[Info]2019/10/24 09:26:03 log.go:27: b log in success
+[Info]2019/10/24 09:26:05 log.go:19: Cmd deleteuser called
+[Info]2019/10/24 09:26:05 log.go:25: curUser: b  cmd: deleteuser called
+[Info]2019/10/24 09:26:05 log.go:25: curUser: b  cmd: deleteuser success
