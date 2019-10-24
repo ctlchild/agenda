@@ -127,8 +127,8 @@
 │      deleteuser.go          删除用户
 │      exitmeeting.go         退出会议
 │      listmeeting.go         查询会议
-|      listuser.go            查询用户
-|      log.go                 命令访问log文件的接口实现
+│      listuser.go            查询用户
+│      log.go                 命令访问log文件的接口实现
 │      login.go               登录
 │      logout.go              登出
 │      register.go            用户注册
